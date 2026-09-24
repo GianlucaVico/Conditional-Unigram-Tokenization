@@ -231,4 +231,13 @@ Scripts for training and using SencencePiece.
 
 ## Cite
 
-TODO
+```bibtex
+@inproceedings{
+	vico2025conditional,
+	title={Conditional Unigram Tokenization with Parallel Data},
+	author={Gianluca Vico and Jind{\v{r}}ich Libovick{\'y}},
+	booktitle={Tokenization Workshop},
+	year={2025},
+	url={https://openreview.net/forum?id=lnWJWNA8YW}
+}
+```
